@@ -8,3 +8,4 @@ First, I started ML in the course-work of my CS syllabus in 3rd Year 5th Sem (20
 - I am not that much fluent using PYTHON so I also learnt it and documented like this one. (`TODO:` Attach the repo here). Also for Data Science I learnt libraries like : `pandas`, `numpy`, `mathplotlib`, `scikit-learn` etc.
 
 ### Content: 
+- #### [100 Days of Machine Learning](./100%20Days%20of%20Machine%20Learning/index.md)
