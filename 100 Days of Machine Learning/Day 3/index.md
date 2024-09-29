@@ -8,7 +8,7 @@
 - Unsupervised Learning
     - Clustering
     - Association
-    - Dimensionality Resuction
+    - Dimensionality Reduction
     - Anamoly Detection
 - Semi Supervised Learning
 - Reinforcement Learning
