@@ -10,4 +10,23 @@ Normalization is a technique often applied as a part of data preparation for mac
 - Max Absolute Scaling
 - Robust Scaling
 
-### Notebook : [Normalization](./Code/index.ipynb)
+### Notebook : [Min Max Normalization](./Code/index.ipynb)
+
+### Mean Normalization
+Useful for centered data. Standardization is somewhat same but not completely same
+![](./assets/meanNorm.png)
+Dont have its corresponding function in sklearn.
+
+### Max Absolute Normalization
+It is useful in case of Sparse Data
+![](./assets/maxAbs.png)
+In skLearn -> MaxAbsScaler()
+
+### Robust Normalization
+If data has lot of outliers it is very useful.
+![](./assets/Robust.png)
+In skLearn -> RobustScaler()
+
+### Normalization vs Standardization
+<!-- Watch Video -->
+Most of the time Standardization is used.
