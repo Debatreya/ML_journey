@@ -9,3 +9,5 @@ First, I started ML in the course-work of my CS syllabus in 3rd Year 5th Sem (20
 
 ### Content: 
 - #### [100 Days of Machine Learning](./100%20Days%20of%20Machine%20Learning/index.md)
+- #### [Deep Learning](./Deep%20Learning/index.md)
+    - ##### [PyTorch](./Deep%20Learning/PyTorch/index.md)
